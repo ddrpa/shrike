@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "sourceType": "cc.ddrpa.shrike.spring.autoconfigure.ShrikeProperties",
+      "name": "shrike",
+      "type": "cc.ddrpa.shrike.spring.autoconfigure.ShrikeProperties"
+    }
+  ],
+  "properties": [
+  ]
+}

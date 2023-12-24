@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://{host}:33068/{db}?useSSL=false&createDatabaseIfNotExist=true&connectionCollation=utf8_unicode_520_ci&zeroDateTimeBehavior=CONVERT_TO_NULL&allowMultiQueries=true&useUnicode=true&characterEncoding=utf8&serverTimezone=GMT%2B8
+    username: {username}
+    password: {password}
